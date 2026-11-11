@@ -51,7 +51,7 @@ Atualmente curso o **5º semestre do Curso Superior de Tecnologia em Análise e 
 
 ### Histórico acadêmico
 
-[Conte sua trajetória antes da Fatec: ensino médio, técnico, outra graduação, cursos livres etc.]
+Concluí o ensino médio em **2020** no **Colégio Embraer**, em São José dos Campos. Em seguida, ingressei no **Bacharelado em Ciência e Tecnologia da Universidade Federal do ABC (UFABC)**, onde cursei parte da graduação antes de optar pela Fatec. Mesmo sem concluir o curso, essa experiência contribuiu para minha base acadêmica em ciências exatas e para meu contato inicial com programação, raciocínio lógico e resolução de problemas.
 
 Na Fatec, minha formação vem sendo construída principalmente por meio dos projetos de **Aprendizagem por Projetos Integrados (API)**, nos quais participei de soluções envolvendo desenvolvimento web e desktop, design de interfaces, integração com bancos de dados, backend e inteligência artificial aplicada.
 
