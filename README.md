@@ -65,11 +65,11 @@ Além disso, trabalhar em equipe com Scrum, assumindo papéis como desenvolvedor
 
 ### Histórico profissional
 
-[Onde você trabalha ou estagia hoje, com quais tecnologias e em que tipo de atividade.]
+Atualmente sou **estagiário na Kaffa Tech**, em São José dos Campos, desde outubro de 2026, em regime híbrido. [Descreva suas atividades e as tecnologias que utiliza no estágio.]
 
-[Experiências anteriores relevantes, se houver.]
+Paralelamente, desde dezembro de 2025 atuo como **desenvolvedor de software freelancer na Motus**, trabalhando no desenvolvimento e na evolução da plataforma **Motus Sports**. Desenvolvo funcionalidades para a plataforma web com **React**, contribuo com melhorias técnicas e fui responsável pelo desenvolvimento e pela publicação da **landing page oficial** do produto. Também participo das reuniões semanais com a equipe, da análise de requisitos e da definição de soluções técnicas, além de discussões sobre as necessidades dos usuários, potenciais clientes e a evolução do produto. O versionamento e o trabalho colaborativo são feitos com **Git e GitLab**.
 
-[Um parágrafo de fechamento sobre seu perfil profissional e o que você busca.]
+Essas experiências complementam o que venho desenvolvendo nos projetos da Fatec, com a diferença de lidar com um produto em produção e com usuários reais. Elas me ajudaram a construir um perfil voltado ao desenvolvimento fullstack, com atenção à experiência do usuário e ao valor de negócio de cada entrega. Busco continuar evoluindo em ambientes que valorizem qualidade técnica, colaboração e aprendizado contínuo.
 
 ### Informações de contato
 
