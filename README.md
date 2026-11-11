@@ -57,7 +57,11 @@ Na Fatec, minha formação vem sendo construída principalmente por meio dos pro
 
 ### Motivação para entrar na Fatec
 
-[Por que você escolheu a Fatec e o curso de ADS? O que te atraiu na metodologia de projetos (API)?]
+Escolhi a Fatec por ser uma instituição reconhecida pelo mercado de tecnologia e pela formação voltada à prática. Depois de ter contato com uma graduação de base mais teórica na UFABC, percebi que queria um curso que me aproximasse mais rapidamente do desenvolvimento de software e da realidade das empresas.
+
+A metodologia de **Aprendizagem por Projetos Integrados (API)** foi o fator decisivo nessa escolha. Em todos os semestres, desenvolvemos soluções para clientes reais, como empresas e instituições parceiras, o que exige entender o problema do cliente, negociar escopo, cumprir prazos e apresentar entregas incrementais a cada sprint. Esse formato permite aplicar imediatamente o que é visto em sala de aula e aprender com os desafios que só aparecem em um projeto de verdade.
+
+Além disso, trabalhar em equipe com Scrum, assumindo papéis como desenvolvedor e Product Owner, desenvolve competências técnicas e comportamentais muito próximas das exigidas no ambiente profissional. Para mim, esse contato constante com problemas reais e com o mercado é o que torna a Fatec uma porta de entrada sólida para a carreira em tecnologia.
 
 ### Histórico profissional
 
