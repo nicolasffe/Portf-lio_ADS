@@ -73,7 +73,7 @@ Essas experiências complementam o que venho desenvolvendo nos projetos da Fatec
 
 ### Informações de contato
 
-- E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+- E-mail: [nicolasferreira.ismart@gmail.com](mailto:nicolasferreira.ismart@gmail.com)
 - GitHub: [github.com/nicolasffe](https://github.com/nicolasffe)
 - LinkedIn: [linkedin.com/in/nicolas-ferreira-fernandes](https://www.linkedin.com/in/nicolas-ferreira-fernandes/)
 - Localização: São José dos Campos - SP

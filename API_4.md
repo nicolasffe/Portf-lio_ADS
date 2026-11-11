@@ -132,7 +132,7 @@ Os projetos ficam salvos por usuário, com histórico, busca e acompanhamento do
 | Sprint 1 | 16/03/2026 a 05/04/2026 | Geração do memorial de cálculo básico e primeira versão da interface | Concluída |
 | Sprint 2 | 13/04/2026 a 03/05/2026 | Assistente de IA, geração de especificações técnicas, salvamento de projetos e tela de normas | Parcialmente concluída |
 | Sprint 3 | 11/05/2026 a 31/05/2026 | Autenticação, integração completa do processamento, exportação dos documentos e manuais | Concluída |
-| Feira de Soluções | [DD/MM/2026] | Apresentação do projeto e demonstração da solução desenvolvida | Concluída |
+| Feira de Soluções | 25/06/2026 | Apresentação do projeto e demonstração da solução desenvolvida | Concluída |
 
 ---
 
