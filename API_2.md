@@ -64,7 +64,7 @@
 
 | Item | Descrição |
 |---|---|
-| Cliente | [Nome do cliente ou professor responsável] |
+| Cliente | Professores da Fatec São José dos Campos |
 | Contexto do desafio | Apoio a desenvolvedores na análise e correção de código com inteligência artificial |
 | Professor P2 | [Nome do professor] |
 | Parceiro acadêmico | Fatec São José dos Campos - Prof. Jessen Vidal |

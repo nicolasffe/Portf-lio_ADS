@@ -43,11 +43,11 @@
 
 ### Informações pessoais básicas
 
-Meu nome é **Nícolas Ferreira Fernandes**, tenho **[idade] anos** e sou de **[Cidade - UF]**.
+Meu nome é **Nícolas Ferreira Fernandes**, tenho **23 anos** e sou de **São José dos Campos - SP**.
 
 ### Curso
 
-Atualmente curso o **[N]º semestre do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** na **Fatec São José dos Campos - Prof. Jessen Vidal**.
+Atualmente curso o **5º semestre do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas** na **Fatec São José dos Campos - Prof. Jessen Vidal**.
 
 ### Histórico acadêmico
 
@@ -72,7 +72,7 @@ Na Fatec, minha formação vem sendo construída principalmente por meio dos pro
 - E-mail: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
 - GitHub: [github.com/nicolasffe](https://github.com/nicolasffe)
 - LinkedIn: [linkedin.com/in/nicolas-ferreira-fernandes](https://www.linkedin.com/in/nicolas-ferreira-fernandes/)
-- Localização: [Cidade - UF]
+- Localização: São José dos Campos - SP
 
 ### Principais conhecimentos
 
