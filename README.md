@@ -65,7 +65,7 @@ Além disso, trabalhar em equipe com Scrum, assumindo papéis como desenvolvedor
 
 ### Histórico profissional
 
-Atualmente sou **estagiário na Kaffa Tech**, em São José dos Campos, desde outubro de 2026, em regime híbrido. [Descreva suas atividades e as tecnologias que utiliza no estágio.]
+Atualmente sou **estagiário na Kaffa Tech**, em São José dos Campos, desde outubro de 2026, em regime híbrido. Atuo no **suporte aos clientes** no uso do software da empresa, desenvolvido em **C#**, ajudando a esclarecer dúvidas, investigar problemas e orientar a melhor forma de utilizar o sistema. Nessa atividade, trabalho constantemente com o **banco de dados**, realizando consultas, análises e ajustes de dados para entender o comportamento do sistema e resolver as demandas dos clientes. Essa experiência tem fortalecido meus conhecimentos em SQL e minha capacidade de diagnosticar problemas a partir dos dados, além da comunicação com usuários de diferentes perfis.
 
 Paralelamente, desde dezembro de 2025 atuo como **desenvolvedor de software freelancer na Motus**, trabalhando no desenvolvimento e na evolução da plataforma **Motus Sports**. Desenvolvo funcionalidades para a plataforma web com **React**, contribuo com melhorias técnicas e fui responsável pelo desenvolvimento e pela publicação da **landing page oficial** do produto. Também participo das reuniões semanais com a equipe, da análise de requisitos e da definição de soluções técnicas, além de discussões sobre as necessidades dos usuários, potenciais clientes e a evolução do produto. O versionamento e o trabalho colaborativo são feitos com **Git e GitLab**.
 
@@ -90,7 +90,7 @@ Essas experiências complementam o que venho desenvolvendo nos projetos da Fatec
 | Frontend | React, Next.js, TypeScript, Vite, HTML, CSS, Tailwind CSS, shadcn/ui e Storybook |
 | Desktop | Java, JavaFX e CSS para JavaFX |
 | Backend | Python, FastAPI, Flask, APIs REST, autenticação com JWT e streaming de dados |
-| Dados | MySQL, MariaDB, SQLAlchemy, Alembic, Firebase Firestore e geração de planilhas e documentos |
+| Dados | SQL, consultas e análise de dados, MySQL, MariaDB, SQLAlchemy, Alembic, Firebase Firestore e geração de planilhas e documentos |
 | Inteligência Artificial | Integração com LLMs (OpenAI, Groq e Ollama), tratamento de falhas e uso de modelos locais |
 | Design | Figma, prototipação, wireframes e design de interfaces |
 | Infraestrutura | Docker e Docker Compose |
