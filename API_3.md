@@ -66,7 +66,6 @@
 |---|---|
 | Empresa parceira | [Entrenova](https://link-da-empresa) |
 | Contexto do desafio | Diagnóstico organizacional e venda de trilhas de desenvolvimento para empresas |
-| Professor P2 | [Nome do professor] |
 | Parceiro acadêmico | Fatec São José dos Campos - Prof. Jessen Vidal |
 
 ---

@@ -66,7 +66,7 @@
 |---|---|
 | Cliente | Professores da Fatec São José dos Campos |
 | Contexto do desafio | Apoio a desenvolvedores na análise e correção de código com inteligência artificial |
-| Professor P2 | [Nome do professor] |
+| Professor responsável pelos requisitos | Prof. Giuliano Bertoti |
 | Parceiro acadêmico | Fatec São José dos Campos - Prof. Jessen Vidal |
 
 ---

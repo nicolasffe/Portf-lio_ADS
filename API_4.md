@@ -66,7 +66,6 @@
 |---|---|
 | Empresa parceira | Exército Brasileiro — Guarnição de Caçapava |
 | Contexto do desafio | Elaboração de memoriais de cálculo e documentação técnica de obras de engenharia |
-| Professor P2 | [Nome do professor] |
 | Parceiro acadêmico | Fatec São José dos Campos - Prof. Jessen Vidal |
 
 ---

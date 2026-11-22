@@ -64,9 +64,8 @@
 
 | Item | Descrição |
 |---|---|
-| Cliente | Prof. Antônio Egydio |
+| Professor responsável pelos requisitos | Prof. Antonio Egydio |
 | Contexto do desafio | Ensino da metodologia ágil Scrum para o público interno e externo da Fatec |
-| Professor P2 | [Nome do professor] |
 | Parceiro acadêmico | Fatec São José dos Campos - Prof. Jessen Vidal |
 
 ---
