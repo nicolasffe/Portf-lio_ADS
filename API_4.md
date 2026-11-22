@@ -65,7 +65,7 @@
 | Item | Descrição |
 |---|---|
 | Empresa parceira | Exército Brasileiro — Guarnição de Caçapava |
-| Contexto do desafio | Elaboração de memoriais de cálculo e documentação técnica de obras de engenharia |
+| Contexto do desafio | Elaboração da documentação técnica de obras (memoriais de cálculo, especificações e orçamentos) para licenciamento e licitação |
 | Parceiro acadêmico | Fatec São José dos Campos - Prof. Jessen Vidal |
 
 ---
@@ -76,7 +76,9 @@
 
 ## ❗ Problema
 
-Produzir o memorial de cálculo e a documentação técnica de uma obra a partir de suas plantas CAD é um trabalho manual e demorado. É preciso levantar áreas, comprimentos e ambientes, calcular quantitativos, consultar preços de insumos e redigir especificações de acordo com as normas técnicas.
+Para licenciar uma obra, o Exército Brasileiro precisa produzir documentos técnicos detalhados, como **memoriais de cálculo**, **especificações** e **orçamentos**, seguindo as normas da ABNT e padrões internos. Esses documentos servem de base para o processo formal de **licitação**.
+
+Hoje esse trabalho é feito manualmente pelos engenheiros a partir das plantas CAD: é preciso levantar áreas, comprimentos e ambientes, calcular quantitativos, consultar preços de insumos e redigir as especificações. O processo consome muitas horas de profissionais especializados, está sujeito a erros de levantamento e atrasa a aprovação das obras.
 
 O desafio proposto foi extrair automaticamente os dados relevantes de uma planta CAD enviada pelo usuário e, com apoio de inteligência artificial, gerar um documento conforme as normas da ABNT e uma planilha de custos, tudo por meio de uma interface simples.
 

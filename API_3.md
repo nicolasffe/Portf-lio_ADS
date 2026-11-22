@@ -64,8 +64,8 @@
 
 | Item | Descrição |
 |---|---|
-| Empresa parceira | [Entrenova](https://link-da-empresa) |
-| Contexto do desafio | Diagnóstico organizacional e venda de trilhas de desenvolvimento para empresas |
+| Empresa parceira | Entrenova |
+| Contexto do desafio | Treinamentos corporativos que unem entretenimento digital, cinema e educação, oferecidos a partir de um diagnóstico organizacional |
 | Parceiro acadêmico | Fatec São José dos Campos - Prof. Jessen Vidal |
 
 ---
@@ -76,9 +76,9 @@
 
 ## ❗ Problema
 
-A empresa parceira precisava entender os principais problemas de seus clientes antes de oferecer soluções de treinamento. Para isso, queria um formulário com perguntas definidas por ela, capaz de traçar um panorama geral da situação de cada organização.
+A Entrenova queria validar, com uma estrutura enxuta e parcerias estratégicas, um produto de treinamentos corporativos que une entretenimento digital, cinema e educação. Para oferecer a trilha certa a cada empresa, precisava antes entender suas reais necessidades. Para isso, queria um formulário com perguntas definidas por ela, capaz de traçar um panorama geral da situação de cada organização.
 
-A partir das respostas, o sistema deveria gerar automaticamente, com inteligência artificial, um relatório de diagnóstico personalizado. Esse relatório também deveria servir de porta de entrada comercial, levando o cliente a contratar trilhas de desenvolvimento.
+A partir das respostas, o sistema deveria gerar automaticamente, com inteligência artificial, um relatório de diagnóstico personalizado. O resultado precisava ser útil para os dois lados: para a empresa cliente, um retrato claro de seus pontos fortes e fracos; para a Entrenova, dados para validar seus produtos e uma porta de entrada comercial, levando o cliente a contratar trilhas de desenvolvimento.
 
 ---
 
