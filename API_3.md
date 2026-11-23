@@ -27,7 +27,6 @@
 - [✅ Solução](#solucao)
 - [📅 Cronograma e entregas](#cronograma-e-entregas)
 - [🔗 Link do repositório Git](#link-do-repositorio-git)
-- [🖥️ Preview da aplicação](#preview-da-aplicacao)
 - [🛠️ Tecnologias utilizadas](#tecnologias-utilizadas)
 - [👨‍💻 Contribuições pessoais](#contribuicoes-pessoais)
 - [🧠 Hard skills](#hard-skills)
@@ -142,18 +141,6 @@ Depois da contratação, a empresa acessa uma plataforma de trilhas e aulas, com
 ## 🔗 Link do repositório Git
 
 - [Repositório do EntrenovaFlix](https://github.com/API-DeepCode/API3_Entrenova)
-
----
-
-<a id="preview-da-aplicacao"></a>
-
-<br>
-
-## 🖥️ Preview da aplicação
-
-[▶️ Assistir à demonstração](https://link-do-video)
-
-[Breve descrição do que o vídeo mostra.]
 
 ---
 
